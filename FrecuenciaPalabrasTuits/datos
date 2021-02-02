@@ -1,0 +1,20 @@
+%Este archivo se divide en dos secciones: @Usuarios y @Datos
+%En la seccion @Usuarios, se detallan los datos de cada uno segun su tipo (Tipo_A, Tipo_B o Tipo_C)
+%Y, a continuacion, en la seccion @Datos, se especifica el nombre del archivo que contiene los tuits del 
+%usuario especificado
+
+@Usuarios
+Tipo_A Juan 35
+Tipo_A Maria 56
+Tipo_A Marcos 19
+Tipo_B Adela Jaen
+Tipo_B Macarena Almeria
+Tipo_C Alberto 655655655 678687689
+Tipo_A Manuel 54
+Tipo_C Julia 699699669 633333333 633233222
+
+@Datos
+Maria tuits_A_1
+Adela tuits_B
+Julia tuits_C
+Manuel tuits_A_2
